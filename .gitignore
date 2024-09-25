@@ -1,0 +1,4 @@
+.DS_Store
+go-wss
+server.key
+server.crt
